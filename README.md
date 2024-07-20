@@ -1,4 +1,4 @@
-About Me
+## About Me
 
 - 👋 Hi, I’m Chandhru M. 
 - 🎓I'm a Computer Science Engineering student with a strong passion for web development and a deep interest in machine learning. I enjoy building engaging web applications and exploring the potential of AI to create intelligent solutions.
